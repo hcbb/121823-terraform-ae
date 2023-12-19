@@ -1,5 +1,7 @@
 # Tasks below should all be done with Terraform.  Commit all code and state to the repo in the form of a branch and PR
 
+There is a `/sample` folder that contains a basic Terraform root that can be used, if desired.  
+
 # Task - Create a load balanced web site
 * globally available on IPv4
 * Use Azure Load Balancer
